@@ -1,0 +1,8 @@
+name: BetterChat
+main: com.niangaoa.betterchat.Main
+version: 1.0
+author: Niangaoa
+api-version: 1.19
+description: A Plugin to service Diaoyugan's Server
+depend:
+  - MiraiMC
